@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{466:function(n,t,e){"use strict";e.r(t);var s={mounted(){this.$page.lastUpdated="2023/03/01"}},u=e(1),l=Object(u.a)(s,(function(){return(0,this._self._c)("div")}),[],!1,null,null,null);t.default=l.exports}}]);
